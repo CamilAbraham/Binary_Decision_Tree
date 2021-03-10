@@ -9,11 +9,11 @@ This decision tree was tested in different cases. One of my favourites was a pac
 
 In the next image you can see the pacman code running. The decisions for the movement of pacman are decided with the binary decision tree.
 
-![Pacman trial](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/PacmanTree.PNG?raw=true)
+![Binary tree tested in Pacman](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/PacmanTree.PNG?raw=true)
 
 The next image shows the accuracy achieved by the binary decision tree and the accuracy obtained with a highly developed machine learning library (scikit: sklearn tree).
 
-![Pacman trial](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/TreeScore.PNG?raw=true)
+![Tree accuracy](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/TreeAccuracy.PNG?raw=true)
 
 
 To do:
