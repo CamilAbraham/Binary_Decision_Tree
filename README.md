@@ -5,11 +5,15 @@ The reason why the name "Binary" is added is because this tree only accepts bina
 
 This decision tree uses gini impurity to decide the parent node.
 
+This decision tree was tested in different cases. One of my favourites was a pacman game. This pacman code was developed at UC Berkeley for their AI course. The creator made the code available to everyone: http://ai.berkeley.edu/home.html
 
+In the next image you can see the pacman code running. The decisions for the movement of pacman are decided with the binary decision tree.
 
+![Pacman trial](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/PacmanTree.PNG?raw=true)
 
+The next image shows the accuracy achieved by the binary decision tree and the accuracy obtained with a highly developed machine learning library (scikit: sklearn tree).
 
-
+![Pacman trial](https://github.com/CamilAbraham/Binary_Decision_Tree/blob/main/TreeScore.PNG?raw=true)
 
 
 To do:
